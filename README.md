@@ -36,3 +36,6 @@ PASTE_CONTRACT_ADDRESS_HERE
 2. Connect MetaMask wallet
 3. Open index.html using Live Server
 4. Vote using buttons
+=======
+# blockchain-voting-dapp
+>>>>>>> f4a9f61d393bfadbd1d29b15900aabdc3c774c32
