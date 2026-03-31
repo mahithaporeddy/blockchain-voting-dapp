@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Blockchain Voting DApp</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Decentralized Voting System</h1>
+
+<button onclick="connectWallet()">Connect Wallet</button>
+
+<p id="walletAddress"></p>
+
+<hr>
+
+<h2>Candidates</h2>
+
+<button onclick="vote(1)">Vote Ram</button>
+
+<button onclick="vote(2)">Vote Riya</button>
+
+<button onclick="vote(3)">Vote John</button>
+
+<hr>
+
+<h2>Results</h2>
+
+<button onclick="getVotes(1)">Check Ram Votes</button>
+
+<button onclick="getVotes(2)">Check Riya Votes</button>
+
+<button onclick="getVotes(3)">Check John Votes</button>
+
+<p id="result"></p>
+
+<script src="https://cdn.jsdelivr.net/npm/ethers@6.6.2/dist/ethers.umd.min.js"></script>
+
+<script src="app.js"></script>
+
+</body>
+
+</html>
