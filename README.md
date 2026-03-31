@@ -28,7 +28,7 @@ frontend → website files
 
 ## Smart Contract Address
 
-PASTE_CONTRACT_ADDRESS_HERE
+0xF842b2A81a00EfD89BEd836b0D6860D4bbe6602F
 
 ## How to run project
 
@@ -36,6 +36,4 @@ PASTE_CONTRACT_ADDRESS_HERE
 2. Connect MetaMask wallet
 3. Open index.html using Live Server
 4. Vote using buttons
-=======
-# blockchain-voting-dapp
->>>>>>> f4a9f61d393bfadbd1d29b15900aabdc3c774c32
+
